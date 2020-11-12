@@ -1,9 +1,92 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title></title>
+    <title>Contact form</title>
+    <style>
+        p {text-align: center;font-size:30px}
+        div.form {
+            width: 520px;
+            height: 380px;
+            border: 7px Solid #4fbf1a;
+            padding: 10px;
+            margin-left: 32%;
+            margin-top: 5%;
+        }
+        body {
+            background-image: url("http://wallpapers.net/web/wallpapers/network-connection-hd-wallpaper/3840x2160.jpg");
+            background-repeat:no-repeat;
+            background-size:100%;
+        }
+        form {
+            margin-left: 18%;
+            margin-top: 5%;
+            width:250px;
+        }
+        .button {
+            border: 1px;
+            color: white;
+            padding: 16px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: auto;
+            transition-duration: 0.4s;
+            cursor: pointer;
+        }
+        .button1 {
+            background-color: white;
+            color: black;
+            border: 1px solid #4CAF50;
+            margin-top: 3%;
+            margin-left: 45%;
+
+        }
+        .button1:hover {
+            background-color: #4CAF50;
+            color: white;
+
+        }
+    </style>
 </head>
+<h3>Contact Form</h3>
 <body>
+
+<p style="color:#8ebf42;">We will contact you as soon as we can.<br>Thanks for letting us know</p>
+<div class="form">
+    <form id="contactform" method="get" style="color: #fdfdff;font-size:12pt;height:420px;width:200px">
+        <label for="name" style="font-size:18pt">Name:</label><br>
+        <input type="text" id="name" name="name" style="font-size:10pt;height:25px;width:350px"><br><br>
+        <label for="Email" style="font-size:18pt">Email:</label><br>
+        <input type="email" id="Email" name="Email" style="font-size:10pt;height:25px;width:350px"><br><br>
+        <label for="contact" style="font-size:18pt">Contact:</label><br>
+        <input type="text" id="contact" name="contact" style="font-size:10pt;height:25px;width:210px">
+        <br><br>
+        <input type="checkbox" id="mail" name="mail" value="mail">
+        <label for="mail">Contact me via mail</label>
+        <br>
+        <input type="checkbox" id="phone" name="phone" value="phone">
+        <label for="phone">Contact me via phone call</label>
+        <br><br>
+        <button onclick="confirmation()" type="submit" form="contactform" value="Send data">Submit</button>
+        <p id="conf"></p>
+        <script>
+            function confirmation() {
+                var txt;
+                var r = confirm("Are you sure you want to submit the details");
+                if (r == true) {
+                    txt = "You pressed OK";
+                } else {
+                    txt = "You pressed Cancel!";
+                }
+                document.getElementById("conf").innerHTML = txt;
+            }
+        </script>
+    </form>
+
+</div>
+
+<button onclick="window.location.href = 'Homepage.html';" class="button button1">Go Home</button>
 
 </body>
 </html>
