@@ -88,6 +88,9 @@ public class Chat {
             else if(s15.equals(message) || s16.equals(message)){
                 System.out.println("My favourite song is Shape of you sung by Ed Sheeran");
             }
+            else if(s23.equals(message) || s24.equals(message)){
+                System.out.println("I was created in Java language"+name);
+            }
             else if (s30.equals(message) || s31.equals(message) || s32.equals(message) || s33.equals(message) || s34.equals(message)){
                 System.out.println("I can suggest you a game");
                 System.out.println("Choose from these games\n1.Bollywood Trivia\n2.GK Quiz");
