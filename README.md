@@ -23,3 +23,4 @@ Users will be able to ask any queries in natural language that they are comforta
 ### Working of the application
 ![Screenshot (72)](https://user-images.githubusercontent.com/49478839/108027430-2b3c5180-7050-11eb-9bf5-ffa6c7674393.png)
 ![Screenshot (73)](https://user-images.githubusercontent.com/49478839/108027428-2aa3bb00-7050-11eb-87cc-0a4bfa279d04.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/49478839/108028131-55dada00-7051-11eb-9e7f-8c02bf6bfead.png)
