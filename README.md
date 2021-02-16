@@ -16,3 +16,5 @@ The chatbot will allow users to feel confident and comfortable when using this s
 ### 2.2 Proposed Solution
 The proposed solution is to create a chatbot to simulate a human conversation to assist users with their conversation needs and to provide a more personal experience. Advancements in artificial intelligence, improved aptitude for decision making, broader availability of domains and corpus, have increased the practicality of integrating a chatbot into applications.
 Users will be able to ask any queries in natural language that they are comfortable using such as; tell my name, tell time, simple fun chat. The chatbot will identify and understand what the user is asking and generate an appropriate response based on the conversational context. Immediate responses will be provided by the chatbot to follow the conversation quickly and to chat further.
+
+## Screenshots
