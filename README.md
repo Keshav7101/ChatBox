@@ -18,6 +18,8 @@ The proposed solution is to create a chatbot to simulate a human conversation to
 Users will be able to ask any queries in natural language that they are comfortable using such as; tell my name, tell time, simple fun chat. The chatbot will identify and understand what the user is asking and generate an appropriate response based on the conversational context. Immediate responses will be provided by the chatbot to follow the conversation quickly and to chat further.
 
 ## Screenshots
+### The Chatbox
 ![Screenshot (71)](https://user-images.githubusercontent.com/49478839/108027345-09db6580-7050-11eb-81b7-b25e79bdbbe0.png)
-![Screenshot (73)](https://user-images.githubusercontent.com/49478839/108027428-2aa3bb00-7050-11eb-87cc-0a4bfa279d04.png)
+### Working of the application
 ![Screenshot (72)](https://user-images.githubusercontent.com/49478839/108027430-2b3c5180-7050-11eb-9bf5-ffa6c7674393.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/49478839/108027428-2aa3bb00-7050-11eb-87cc-0a4bfa279d04.png)
