@@ -34,7 +34,7 @@ class ChatbotAppliaction extends JFrame implements KeyListener{
             {"yes"},
             {"no","NO","NO!!!!!!!"},
             //default
-            {"shut up","you're bad","noob","stop talking",
+            {"shut up","you're bad","stop talking",
                     "can't understand"}
     };
 
