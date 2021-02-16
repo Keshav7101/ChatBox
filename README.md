@@ -19,3 +19,5 @@ Users will be able to ask any queries in natural language that they are comforta
 
 ## Screenshots
 ![Screenshot (71)](https://user-images.githubusercontent.com/49478839/108027345-09db6580-7050-11eb-81b7-b25e79bdbbe0.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/49478839/108027428-2aa3bb00-7050-11eb-87cc-0a4bfa279d04.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/49478839/108027430-2b3c5180-7050-11eb-9bf5-ffa6c7674393.png)
