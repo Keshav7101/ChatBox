@@ -39,12 +39,31 @@ class ChatbotAppliaction extends JFrame implements KeyListener{
             //ask about creator
             {"who created you","your creator","about your creator","creators info"},
             {"I was created by team Chatbox from GLA University"},
+            //about the language
+            {"which language were you created in","what language were you made in","about your coded language"},
+            {"I was created in java language"},
+            //about the user
+            {"do you think i am smart","am i smart","do u think i m smart","do u think i am smart"},
+            {"Everyone is smart in it's own way"},
+            //no input response
+            {" "},
+            {"Please type something"},
+            //mock the bot
+            {"idiot","fool","moron","stupid"},
+            {"shut up","stop talking"},
+            //jokes
+            {"jokes","tell jokes","any jokes","tell me jokes","make me laugh","i want to laugh","joke"},
+            {"Two fish in a tank. \nOne says: “How do you drive this thing?","What does a clam do on his birthday? \nHe shellabrates!",
+                    "What did the grandma cat say to her grandson when she saw him slouching?\n A: You need to pay more attention to my pawsture.",
+                    "Wanna hear a bad cat joke? A: Just kitten!"},
+            //apologizes
+            {"sorry","i'm sorry","i am sorry","i m sorry"},
+            {"it's okay","no problem"},
             //yes
             {"yes"},
             {"no","NO","NO!!!!!!!"},
             //default
-            {"shut up","you're bad","stop talking",
-                    "can't understand"}
+            {"can't understand"}
     };
 
     public static void main(String[] args){
