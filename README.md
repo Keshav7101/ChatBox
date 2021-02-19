@@ -3,7 +3,7 @@ A chat bot application
 # Problem Statement
 ## What do we want to create?
 ### 1.1 A desktop Application
-We want to create a conversational chatbot using Java which will be a web application. This Application will be a funny, conversational chatbot with a little inbuilt game that will be launching with the response of the user that he/she wants to play a game.
+We want to create a conversational chatbot using Java which will be a desktop application. This Application will be a funny, conversational chatbot.
 
 ## What is our idea about?
 ### 2.1 Problem Statement
