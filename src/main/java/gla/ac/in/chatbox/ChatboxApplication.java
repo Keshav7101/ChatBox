@@ -29,7 +29,16 @@ class ChatbotAppliaction extends JFrame implements KeyListener{
             {"hi","hello","hey"},
             //question greetings
             {"how are you","how r you","how r u","how are u"},
-            {"good","doing well"},
+            {"good","doing well","i'm fine thanks for asking"},
+            //ask about the bot
+            {"who are you","tell me about you","what are you","about you"},
+            {"I am Silver a conversational chatbot"},
+            //ask favourite movie
+            {"what is your favourite movie","favourite movie","what's your favourite movie","your favourite movie","any movie you like"},
+            {"My favourite is Gravity (2013)"},
+            //ask about creator
+            {"who created you","your creator","about your creator","creators info"},
+            {"I was created by team Chatbox from GLA University"},
             //yes
             {"yes"},
             {"no","NO","NO!!!!!!!"},
