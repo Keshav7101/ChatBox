@@ -50,7 +50,7 @@ class ChatbotAppliaction extends JFrame implements KeyListener{
             {"Please type something"},
             //mock the bot
             {"idiot","fool","moron","stupid"},
-            {"shut up","stop talking"},
+            {"shut up","stop talking","you're bad"},
             //jokes
             {"jokes","tell jokes","any jokes","tell me jokes","make me laugh","i want to laugh","joke"},
             {"Two fish in a tank. \nOne says: “How do you drive this thing?","What does a clam do on his birthday? \nHe shellabrates!",
